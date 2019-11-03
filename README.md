@@ -10,7 +10,7 @@
 
 <br/>
 
-==Note: the code is not built exactly according to the paper because the GPU-memory is limited (11178MB). And the dimension of the features are 24.==
+*Note: the code is not built exactly according to the paper because the GPU-memory is limited (11178MB). And the dimension of the features are 24.*
 
 The filters of the 1D -> 2D of Generator is decreased from 2304 to 512, and the filters of the last conv in the Generator is decreased from 35 to 1. 
 
