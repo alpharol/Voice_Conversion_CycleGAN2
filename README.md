@@ -98,5 +98,5 @@ The converted voices can be found in the directory below.
 - [x] Add process bar to the code.
 - [x] Accelerate the training speed through saving the models by 100 epoch.
 - [x] Add the module of saving the last five epoch.
-- [ ] Provide some converted samples.
+- [x] Provide some converted samples.
 
